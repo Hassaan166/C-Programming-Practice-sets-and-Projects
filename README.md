@@ -41,7 +41,8 @@ As I progress through the course, I will continue to add completed chapters and 
 
 1. Clone the Repository: Clone this repository to your local machine using the following command:
    
-   git clone <repository-url>
+   git clone https://github.com/your-username/your-repository-name.git
+
   
 2. Navigate to a Chapter: Go to the desired chapter folder to find the practice problems and source files.
 
